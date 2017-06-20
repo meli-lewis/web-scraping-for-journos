@@ -27,3 +27,10 @@ Now that you've had some time with a few of Python's fundamentals — data types
 **Questions? Concerns?** [Send me a note](mailto:arichards@nerdwallet.com) (arichards@nerdwallet.com) or [DM me on Twitter](https://www.twitter.com/alexrichards).
 
 **Struggling with installation?** Try this [updated guide](https://gist.github.com/richardsalex/abc3d36cc128a37f650c1fc3c9cb04a2) for Windows and OS X.
+
+**Further reading and more tutorials:**
+
+- Python's [BeginnersGuide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+- [PyCAR](https://github.com/ireapps/pycar)
+- [Learn Python The Hard Way](https://learnpythonthehardway.org/book/)
+- [CodeAcademy](https://www.codecademy.com/learn/python)
