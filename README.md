@@ -1,5 +1,5 @@
 # Python 2
-**Alex Richards, [NerdWallet](https://www.nerdwallet.com/blog/nerdwallet-investigative-journalism/)**<br/>
+**Alex Richards ([@alexrichards](https://www.twitter.com/alexrichards)), [NerdWallet](https://www.nerdwallet.com/blog/nerdwallet-investigative-journalism/)**<br/>
 **IRE17 Phoenix**
 
 Now that you've had some time with a few of Python's fundamentals — data types, methods, simple loops, etc. — we'll fit the concepts together to create a web scraper.
@@ -10,6 +10,7 @@ Now that you've had some time with a few of Python's fundamentals — data types
 
 **This session will cover:**
 
+- Why you'd ever want to do this
 - Using third-party Python packages  
 - Fetching web pages with Python
 - Navigating the HTML tree
