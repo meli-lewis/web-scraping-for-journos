@@ -1,5 +1,5 @@
-**CAR18 Chicago**
-Introduction to Web Scraping
+# CAR18 Chicago
+## Introduction to Web Scraping
 
 adapted from Alex Richards' ([@alexrichards](https://www.twitter.com/alexrichards)) [IRE17 class](https://github.com/richardsalex/ire17-python2).
 
