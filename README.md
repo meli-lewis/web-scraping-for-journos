@@ -3,6 +3,8 @@
 
 adapted from Alex Richards' ([@alexrichards](https://www.twitter.com/alexrichards)) excellent [IRE17 class](https://github.com/richardsalex/ire17-python2).
 
+He'll also be teaching a repeat web scraping session [Sunday](https://ire.org/events-and-training/event/3189/3709/)!
+
 ### This session will cover:
 
 
